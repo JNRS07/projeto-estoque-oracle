@@ -18,3 +18,6 @@ Projeto desenvolvido para a disciplina de Banco de Dados e Controle de Versão.
 - Scripts SQL
 - Modelo de banco de dados
 - Documentação
+=======
+# projeto-estoque-oracle
+Projeto desenvolvido para a disciplina de Banco de Dados e Controle de Versão.
